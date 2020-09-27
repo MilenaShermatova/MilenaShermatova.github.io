@@ -3,3 +3,5 @@
 ## Лабораторная работа №1
 
 Предложение: Испечь торт
+
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/model_lab1.png)
