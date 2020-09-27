@@ -5,3 +5,5 @@
 Предложение: Испечь торт
 
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/model_lab1.png)
+
+Предложение: Пекарь печет торт по Заказу из коржа, крема и шоколадной начинки при помощи кондитерских принадлежностей
