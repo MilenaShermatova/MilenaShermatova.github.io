@@ -9,3 +9,5 @@
 Предложение: Пекарь печет торт по Заказу из коржа, крема и шоколадной начинки при помощи кондитерских принадлежностей
 
 ## Class Diagram
+
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/ClassDiagram_laba1.png)
