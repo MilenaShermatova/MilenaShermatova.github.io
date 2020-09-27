@@ -11,3 +11,7 @@
 ## Class Diagram
 
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/ClassDiagram_laba1.png)
+
+## Usecase Diagram
+
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/uml_laba1.png)
