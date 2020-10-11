@@ -15,3 +15,5 @@
 ## Usecase Diagram
 
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba1/uml_laba1.png)
+
+## Лабораторная работа №2
