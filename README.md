@@ -34,6 +34,10 @@
     
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/02_A0.png)
 
+##uml
+
+http://www.plantuml.com/plantuml/png/fP71IiD048RFtQSOSj93mGSGQUevc9ld9LdRq7HNPZVqO0LRnPFGgrVn1OeW1ZNr5MRUoAcncdiFGuOl_tpix0vyq1YgQQdyfB2N6lKKT1OSmfNg3NKs6Q6hR7xgIa7duo8OrOiHtQmbmr8Y4dIO6-oYwuwlyYRJtknjBCr5WE00Yz4uG5wWoKBXh6hFcnw1zX2b1hspqIzCMaYFrF0TRVY6FcdDzrJJXXfgf5y1BwZc1I_fTVipskb-1izcrk2Vh7KzTUF0j_GbsZMzq8UWXcfHqfk0TodvIggErEuEujRn_3_4ArxoGwHIwFVX83vKKjisKRBHyLowL2K2vYUoZHeOcyjhVGC0
+
 ## DFD-диаграмма (блок:Управлять):
     
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/03_A1.png)
