@@ -24,7 +24,17 @@
 Контексная:
 
 
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/01_A0.png)
+
+
+### На диаграмме изображен процесс деятельности кондитерской
+
+
+Средний уровень:
+    
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/02_A0.png)
 
-
+## DFD-диаграмма (блок:Управлять):
+    
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/03_A1.png)
 
