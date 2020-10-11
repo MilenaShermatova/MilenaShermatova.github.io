@@ -22,3 +22,9 @@
 ## IDF0 Diagram
 
 Контексная:
+
+
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba2/02_A0.png)
+
+
+
