@@ -70,3 +70,8 @@
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.png?raw=true)
 
 Заказ является записью в БД, которая относится к информационным потокам, и состоит из: Торта, Отзыва клиента и Рецепта.
+
+
+
+
+## [Деловая игра](https://github.com/AirNus/AirNus.github.io/wiki/Business-game)
