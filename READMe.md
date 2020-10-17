@@ -65,7 +65,7 @@
 
 ## ER-диаграмма:
 
-[текст](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.txt) и [рисунок](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.png?raw=true) диаграммы классов.
+[текст](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/erd.txt) и [рисунок](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.png?raw=true) диаграммы классов.
 
 ![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.png?raw=true)
 
