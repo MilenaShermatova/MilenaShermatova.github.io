@@ -67,6 +67,6 @@
 
 [текст](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.txt) и [рисунок](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/ERD.png?raw=true) диаграммы классов.
 
-![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/MilenaShermatova.github.io_ERD.png%20at%20master%20%C2%B7%20MilenaShermatova_MilenaShermatova.github.io.html)
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/https://MilenaShermatova.github.io_ERD.png%20at%20master%20%C2%B7%20MilenaShermatova_MilenaShermatova.github.io.html)
 
 Заказ является записью в БД, которая относится к информационным потокам, и состоит из: Торта, Отзыва клиента и Рецепта.
