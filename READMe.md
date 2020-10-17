@@ -59,7 +59,7 @@
 
 [текст](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_.txt) и [рисунок](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_.png?raw=true) диаграммы последовательности.
 
-![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.png?raw=true)
+![none](https://github.com/MilenaShermatova/MilenaShermatova.github.io/blob/master/laba3/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_.png?raw=true)
 
 Владелец кондитерской отправляет заказ в виде инструкций повару-стажеру, а тот подтверждает получение заказа.
 
